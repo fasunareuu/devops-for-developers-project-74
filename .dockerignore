@@ -1,1 +1,12 @@
-node_modules
+.git
+.github
+.env
+.env.example
+.gitignore
+README.md
+Makefile
+docker-compose*.yml
+services/
+app/node_modules
+app/.sqlite
+app/tmp
